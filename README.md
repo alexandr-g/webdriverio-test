@@ -1,6 +1,7 @@
 # Automated tests with Webdriver/Selenium 2.0 and Node.js
 
-<!-- TODO: how to clone && cd -->
+1. `git clone https://github.com/alexandr-g/webdriverio-tests.git`
+2. cd webdriverio-tests
 
 Required: 
 
