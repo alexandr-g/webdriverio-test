@@ -1,0 +1,15 @@
+{
+  "name": "webdriverio-tests",
+  "version": "0.0.1",
+  "description": "Automated tests with Webdriver/Selenium 2.0 and Node.js",
+  "main": "test.js",
+  "dependencies": {
+    "webdriverio": "^2.4.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexandr",
+  "license": "ISC"
+}
